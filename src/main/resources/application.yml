@@ -1,0 +1,4 @@
+spring:
+  kafka:
+    bootstrapAddress: "10.10.10.181:9092"
+    groupId: "APPS"
